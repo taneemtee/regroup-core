@@ -4,7 +4,9 @@
 Core platform for The Regroup Project. This is a non-profit initiative.
 
 # Motivation
-We were so optimistic about the Internet. We thought more information was better. Now we know that was wrong. We need to fix this. We need to **#regroup**.
+We were so optimistic about the Internet. We thought more information was better. Now we know that was wrong. 
+
+We need to fix this. We need to **#regroup**.
 
 # Objectives
 1. Improve the resiliency of civil society to polarization, misinformation, and conspiracies by massively scaling up volunteerism. We want millions of people to spend time in real world interactions with others on constructive, noble goals to reduce their vulnerability to predatory online sources.
