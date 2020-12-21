@@ -1,4 +1,6 @@
-# regroup-core
+![rgrp_logo](https://user-images.githubusercontent.com/885552/102807784-26bb2b80-4374-11eb-800d-0598f3e5e86a.png)
+
+# Regroup-Core
 Core platform for The Regroup Project. This is a non-profit initiative.
 
 # Motivation
