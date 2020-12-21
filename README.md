@@ -1,4 +1,4 @@
-![regroup_logo](https://user-images.githubusercontent.com/885552/102807890-5bc77e00-4374-11eb-9971-2af0199e4d86.png)
+![regroup_logo](https://user-images.githubusercontent.com/885552/102808036-8d404980-4374-11eb-8964-2b2676ddde28.png)
 
 # Regroup-Core
 Core platform for The Regroup Project. This is a non-profit initiative.
