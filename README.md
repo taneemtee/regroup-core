@@ -28,4 +28,4 @@ Build a tech-driven platform to scale up volunteering:
 
 # Credits
 
-1. Logo was kindly designed and donated by: Farhan Masud Chowdhury (behance.net/tfmsauce) 
+The RGRP logo was kindly designed and donated by: Farhan Masud Chowdhury (behance.net/tfmsauce) 
