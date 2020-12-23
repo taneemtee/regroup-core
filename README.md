@@ -20,3 +20,12 @@ Build a tech-driven platform to scale up volunteering:
 
 2. Build the sink: partner with existing relevant initiatives (such as existing volunteer organizations, as well as other groups that may have never thought about working with volunteers previously) and map them to our pool of volunteers 
 
+# JOIN
+
+1. Fill out application form here: https://forms.gle/FHrCJ5vSchg94Hur6 
+
+2. Join Slack workspace here: https://join.slack.com/t/rgrpworkspace/shared_invite/zt-kce97az7-4OvTDkhAo0aaKNsHXhs_hA
+
+# Credits
+
+1. Logo was kindly designed and donated by: Farhan Masud Chowdhury (behance.net/tfmsauce) 
