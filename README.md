@@ -42,6 +42,10 @@ I am a systems design engineer working in tech, based in Seattle in the US. Prev
 
 2. A platform group of volunteers who design the "operating system" for the community: designing the structure, measuring and iterating on initiatives, and building supporting tools and technology.
 
+*What types of volunteering activities will RGRP focus on?*
+
+The goal is to be broad, so specific areas of volunteering are not part of the definition of RGRP. However, some expected areas of initial focus are: climate change, economic equity, veteran support, and human trafficking.     
+
 
 
 
