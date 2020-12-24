@@ -33,6 +33,7 @@ The RGRP logo was kindly designed and donated by: Farhan Masud Chowdhury (behanc
 # FAQs
 
 *Who are you?*
+
 I am a systems design engineer working in tech, based in Seattle in the US. Previously I was the co-founder of the Sentinel Project, which was one of the world's first NGOs focused using tech to empower communities at risk of mass atrocities.
 
 *What is RGRP exactly?*
