@@ -1,7 +1,7 @@
 ![regroup_logo](https://user-images.githubusercontent.com/885552/102808036-8d404980-4374-11eb-8964-2b2676ddde28.png)
 
 # Regroup-Corps
-Welcome to the the Regroup Corps. This is a non-profit initiative.
+Welcome to the Regroup Corps. This is a non-profit initiative.
 
 # Motivation
 We were so optimistic about the Internet. We thought more information was better. Now we know that was wrong. 
