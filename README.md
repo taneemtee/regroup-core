@@ -4,11 +4,11 @@
 Welcome to the Regroup Corps. This is a non-profit initiative.
 
 # Motivation
-We were so optimistic about the Internet. We thought more information was better. 
+We were so optimistic about the Internet. We thought more information and more connectivity was better. 
 
 <img width="602" alt="Madness" src="https://user-images.githubusercontent.com/885552/103556517-bf6aa480-4e66-11eb-989c-07f37821daaa.png">
 
-Now we know that was wrong. 
+Now, things are going wrong.
 
 We need to fix this. We need to **#regroup**.
 
